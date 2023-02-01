@@ -1,6 +1,6 @@
 # Engage++
 
-Engage++ is an educational tool built to showcase examples of bas systems design.
+Engage++ is an educational tool built to showcase examples of bad systems design.
 
 It focuses on a learning platform called Aula, where its purpose is to crawl through a given space, and react to every single post with all the emoji that Aula support.
 
