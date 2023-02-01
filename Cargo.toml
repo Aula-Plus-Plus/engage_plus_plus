@@ -1,0 +1,23 @@
+[package]
+name = "engage_plus_plus"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+repository = "https://github.com/WolfSkin0/engage_plus_plus"
+
+[dependencies]
+anyhow = "1.0.68"
+serde_json = "1.0.91"
+spinoff = "0.7.0"
+
+[dependencies.serde]
+version = "1.0.152"
+features = ["derive"]
+
+[dependencies.time]
+version = "0.3.17"
+features = ["serde-human-readable", "serde-well-known"]
+
+[dependencies.ureq]
+version = "2.6.2"
+features = ["json"]
